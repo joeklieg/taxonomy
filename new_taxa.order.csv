@@ -1,0 +1,39 @@
+current taxonomy,broader taxonomy,broadest,color_preference
+Viruses,Viruses,Microbes,Yellow
+Archaea,Archaea,Microbes,Orange
+Bacteria,Bacteria,Microbes,Red/Purple
+Acidobacteria,Bacteria,Microbes,Red/Purple
+Actinobacteria,Bacteria,Microbes,Red/Purple
+Bacteriodetes,Bacteria,Microbes,Red/Purple
+Chloroflexi,Bacteria,Microbes,Red/Purple
+Cyanobacteria,Bacteria,Microbes,Red/Purple
+Firmicutes,Bacteria,Microbes,Red/Purple
+Gemmatimonadetes,Bacteria,Microbes,Red/Purple
+Lentisphaerae,Bacteria,Microbes,Red/Purple
+Proteobacteria,Bacteria,Microbes,Red/Purple
+Tenericutes,Bacteria,Microbes,Red/Purple
+Verrucomicrobia,Bacteria,Microbes,Red/Purple
+Chlorobionta,Chlorobionta,Microbes,Violet
+Chromista,Chromista,Microbes,Lavender
+Fungi,Fungi,Fungi,Browns
+Ascomycota,Fungi,Fungi,Browns
+Basidiomycota,Fungi,Fungi,Browns
+Glomeromycota,Fungi,Fungi,Browns
+Lichen,Fungi,Fungi,Browns
+Mucoromycota,Fungi,Fungi,Browns
+Oomycota,Fungi,Fungi,Browns
+Zygomycota,Fungi,Fungi,Browns
+Bryophyta,Nonvascular plants,Plants,Greens
+Angiosperms,Vascular Plants,Plants,Greens
+Gymnosperms,Vascular Plants,Plants,Greens
+Porifera,Invertebrates,Metazoa,Blues
+Ctenophora,Invertebrates,Metazoa,Blues
+Cnidaria,Invertebrates,Metazoa,Blues
+Mollusca,Invertebrates,Metazoa,Blues
+Echinodermata,Invertebrates,Metazoa,Blues
+Arthropoda,Invertebrates,Metazoa,Blues
+Osteichthyes,Vertebrates,Metazoa,Turquoise
+Amphibia,Vertebrates,Metazoa,Turquoise
+Mammalia,Vertebrates,Metazoa,Turquoise
+Aves,Vertebrates,Metazoa,Turquoise
+Reptilia,Vertebrates,Metazoa,Turquoise
