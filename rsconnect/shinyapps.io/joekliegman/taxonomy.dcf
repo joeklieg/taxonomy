@@ -1,0 +1,13 @@
+name: taxonomy
+title: taxonomy
+username:
+account: joekliegman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 310616
+bundleId: 1292491
+url: https://joekliegman.shinyapps.io/taxonomy/
+when: 1522268838.84138
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|~$taxonomy.xlsx|new_taxa.order.csv|taxonomy_cleaner.R|taxonomy.xlsx

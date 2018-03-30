@@ -1,9 +1,9 @@
 library(tidyverse)
 library(shiny)
 library(colourpicker)
-library(plotly)
 
-new_taxa_order <- read_csv("~/Documents/GitHub/taxonomy/new_taxa.order.csv")
+
+new_taxa_order <- read_csv("https://raw.githubusercontent.com/joeklieg/taxonomy/master/new_taxa.order.csv")
 phylum <- sort(unique(new_taxa_order$`current taxonomy`))
 kingdom <- sort(unique(new_taxa_order$broadest))
 taxa <- sort(unique(new_taxa_order$`broader taxonomy`))
