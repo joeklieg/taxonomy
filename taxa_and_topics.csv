@@ -1,0 +1,1578 @@
+Proposal,question,taxonomy
+1046017,metabolism,Archaea
+1046017,metabolism,Chromista
+1046372,metabolism,Arthropoda
+1046372,metabolism,Bacteria
+1136345,metabolism,Cyanobacteria
+1136345,metabolism,Chlorobionta
+1136345,metabolism,Chromista
+1136345,metabolism,Oomycota
+1136727,metabolism,Bacteria
+1136727,metabolism,Proteobacteria
+1241221,metabolism,Viruses
+1241221,metabolism,Cyanobacteria
+1241221,metabolism,Proteobacteria
+1241221,metabolism,Chromista
+1342872,metabolism,Bacteria
+1342872,metabolism,Proteobacteria
+1342872,metabolism,Cyanobacteria
+1342872,metabolism,Ascomycota
+1342872,metabolism,Basidiomycota
+1342872,metabolism,Glomeromycota
+1342872,metabolism,Mucoromycota
+1342872,metabolism,Zygomycota
+1342872,metabolism,Gymnosperms
+1342872,metabolism,Angiosperms
+1442199,metabolism,Angiosperms
+1442246,metabolism,Acidobacteria
+1442246,metabolism,Actinobacteria
+1442246,metabolism,Bacteriodetes
+1442246,metabolism,Firmicutes
+1442246,metabolism,Gemmatimonadetes
+1442246,metabolism,Verrucomicrobia
+1442246,metabolism,Angiosperms
+1442246,metabolism,Gymnosperms
+1542240,metabolism,Proteobacteria
+1542240,metabolism,Chloroflexi
+1542240,metabolism,Bacteriodetes
+1542506,metabolism,Archaea
+1542506,metabolism,Bacteria
+1542506,metabolism,Firmicutes
+1542506,metabolism,Proteobacteria
+1542506,metabolism,Bacteriodetes
+1542609,metabolism,Cyanobacteria
+1542609,metabolism,Proteobacteria
+1542609,metabolism,Bryophyta
+1638296,metabolism,Cyanobacteria
+1638296,metabolism,Chromista
+1638296,metabolism,Chlorobionta
+1639033,metabolism,Cyanobacteria
+1639033,metabolism,Chlorobionta
+1639033,metabolism,Chromista
+1737898,metabolism,Proteobacteria
+1737898,metabolism,Chlorobionta
+1737898,metabolism,Chromista
+1737898,metabolism,Glomeromycota
+1737898,metabolism,Mucoromycota
+1737898,metabolism,Zygomycota
+1737898,metabolism,Bryophyta
+1737898,metabolism,Gymnosperms
+1737898,metabolism,Angiosperms
+1738041,metabolism,Bacteria
+1738041,metabolism,Fungi
+1738041,metabolism,Angiosperms
+1046017,nutrient cycling,Archaea
+1046017,nutrient cycling,Chromista
+1046121,nutrient cycling,Chlorobionta
+1046297,nutrient cycling,Cyanobacteria
+1046297,nutrient cycling,Proteobacteria
+1046297,nutrient cycling,Chromista
+1136484,nutrient cycling,Archaea
+1136484,nutrient cycling,Bacteria
+1136818,nutrient cycling,Viruses
+1136818,nutrient cycling,Archaea
+1136818,nutrient cycling,Bacteria
+1136818,nutrient cycling,Cyanobacteria
+1136818,nutrient cycling,Chromista
+1136818,nutrient cycling,Chlorobionta
+1240851,nutrient cycling,Bacteria
+1240851,nutrient cycling,Cyanobacteria
+1241094,nutrient cycling,Archaea
+1241094,nutrient cycling,Bacteria
+1241094,nutrient cycling,Proteobacteria
+1342694,nutrient cycling,Proteobacteria
+1342701,nutrient cycling,Bacteria
+1442214,nutrient cycling,Archaea
+1442214,nutrient cycling,Proteobacteria
+1442214,nutrient cycling,Verrucomicrobia
+1542240,nutrient cycling,Proteobacteria
+1542240,nutrient cycling,Chloroflexi
+1542240,nutrient cycling,Bacteriodetes
+1638296,nutrient cycling,Cyanobacteria
+1638296,nutrient cycling,Chromista
+1638296,nutrient cycling,Chlorobionta
+1639033,nutrient cycling,Cyanobacteria
+1639033,nutrient cycling,Chlorobionta
+1639033,nutrient cycling,Chromista
+1045977,spp diversity,Ascomycota
+1045977,spp diversity,Basidiomycota
+1045977,spp diversity,Glomeromycota
+1045977,spp diversity,Angiosperms
+1046017,spp diversity,Archaea
+1046017,spp diversity,Chromista
+1046065,spp diversity,Ascomycota
+1046065,spp diversity,Lichen
+1046065,spp diversity,Bryophyta
+1046065,spp diversity,Angiosperms
+1046065,spp diversity,Gymnosperms
+1046115,spp diversity,Ascomycota
+1046115,spp diversity,Basidiomycota
+1046115,spp diversity,Zygomycota
+1046115,spp diversity,Gymnosperms
+1046144,spp diversity,Viruses
+1046144,spp diversity,Archaea
+1046144,spp diversity,Proteobacteria
+1046153,spp diversity,Proteobacteria
+1046153,spp diversity,Arthropoda
+1046297,spp diversity,Cyanobacteria
+1046297,spp diversity,Proteobacteria
+1046297,spp diversity,Chromista
+1046328,spp diversity,Angiosperms
+1046355,spp diversity,Angiosperms
+1046355,spp diversity,Gymnosperms
+1046408,spp diversity,Arthropoda
+1046408,spp diversity,Amphibia
+1046408,spp diversity,Osteichthyes
+1046413,spp diversity,Viruses
+1046413,spp diversity,Cnidaria
+1135733,spp diversity,Angiosperms
+1135733,spp diversity,Arthropoda
+1136626,spp diversity,Basidiomycota
+1136626,spp diversity,Angiosperms
+1136626,spp diversity,Gymnosperms
+1136640,spp diversity,Bacteria
+1136640,spp diversity,Amphibia
+1136818,spp diversity,Viruses
+1136818,spp diversity,Archaea
+1136818,spp diversity,Bacteria
+1136818,spp diversity,Cyanobacteria
+1136818,spp diversity,Chromista
+1136818,spp diversity,Chlorobionta
+1241041,spp diversity,Aves
+1241046,spp diversity,Archaea
+1241046,spp diversity,Bacteria
+1241046,spp diversity,Proteobacteria
+1241066,spp diversity,Angiosperms
+1241066,spp diversity,Arthropoda
+1241066,spp diversity,Mammalia
+1241066,spp diversity,Aves
+1241099,spp diversity,Bacteria
+1241099,spp diversity,Arthropoda
+1241136,spp diversity,Gymnosperms
+1241136,spp diversity,Angiosperms
+1241161,spp diversity,Proteobacteria
+1241161,spp diversity,Cyanobacteria
+1241161,spp diversity,Ascomycota
+1241253,spp diversity,Archaea
+1241253,spp diversity,Bacteria
+1241253,spp diversity,Arthropoda
+1342615,spp diversity,Bacteria
+1342615,spp diversity,Mammalia
+1342701,spp diversity,Bacteria
+1342754,spp diversity,Angiosperms
+1342754,spp diversity,Gymnosperms
+1342754,spp diversity,Arthropoda
+1342785,spp diversity,Proteobacteria
+1342785,spp diversity,Mollusca
+1342872,spp diversity,Bacteria
+1342872,spp diversity,Proteobacteria
+1342872,spp diversity,Cyanobacteria
+1342872,spp diversity,Ascomycota
+1342872,spp diversity,Basidiomycota
+1342872,spp diversity,Glomeromycota
+1342872,spp diversity,Mucoromycota
+1342872,spp diversity,Zygomycota
+1342872,spp diversity,Gymnosperms
+1342872,spp diversity,Angiosperms
+1342876,spp diversity,Viruses
+1342876,spp diversity,Archaea
+1343578,spp diversity,Bacteria
+1343578,spp diversity,Proteobacteria
+1343578,spp diversity,Chromista
+1343578,spp diversity,Angiosperms
+1343578,spp diversity,Arthropoda
+1343578,spp diversity,Amphibia
+1343578,spp diversity,Reptilia
+1343578,spp diversity,Aves
+1442103,spp diversity,Angiosperms
+1442103,spp diversity,Arthropoda
+1442214,spp diversity,Archaea
+1442214,spp diversity,Proteobacteria
+1442214,spp diversity,Verrucomicrobia
+1442231,spp diversity,Firmicutes
+1442231,spp diversity,Proteobacteria
+1442231,spp diversity,Verrucomicrobia
+1442231,spp diversity,Cyanobacteria
+1442231,spp diversity,Actinobacteria
+1442231,spp diversity,Lentisphaerae
+1442231,spp diversity,Bacteriodetes
+1442231,spp diversity,Chromista
+1442231,spp diversity,Chlorobionta
+1442262,spp diversity,Bacteria
+1442262,spp diversity,Proteobacteria
+1442262,spp diversity,Acidobacteria
+1442262,spp diversity,Chloroflexi
+1442262,spp diversity,Gemmatimonadetes
+1442262,spp diversity,Actinobacteria
+1442262,spp diversity,Firmicutes
+1442262,spp diversity,Cyanobacteria
+1442262,spp diversity,Chlorobionta
+1442262,spp diversity,Chromista
+1442280,spp diversity,Archaea
+1442280,spp diversity,Bacteria
+1442280,spp diversity,Proteobacteria
+1442280,spp diversity,Cyanobacteria
+1442306,spp diversity,Archaea
+1442306,spp diversity,Bacteria
+1442306,spp diversity,Proteobacteria
+1442306,spp diversity,Cyanobacteria
+1442306,spp diversity,Chromista
+1442306,spp diversity,Ascomycota
+1442306,spp diversity,Basidiomycota
+1442306,spp diversity,Cnidaria
+1442316,spp diversity,Proteobacteria
+1442316,spp diversity,Verrucomicrobia
+1442316,spp diversity,Arthropoda
+1442348,spp diversity,Proteobacteria
+1442348,spp diversity,Ascomycota
+1442348,spp diversity,Gymnosperms
+1524639,spp diversity,Lichen
+1542599,spp diversity,Angiosperms
+1542599,spp diversity,Arthropoda
+1542681,spp diversity,Oomycota
+1542681,spp diversity,Angiosperms
+1638768,spp diversity,Proteobacteria
+1638768,spp diversity,Acidobacteria
+1638768,spp diversity,Chloroflexi
+1638768,spp diversity,Bacteriodetes
+1638768,spp diversity,Actinobacteria
+1638768,spp diversity,Ascomycota
+1638768,spp diversity,Angiosperms
+1638768,spp diversity,Arthropoda
+1737758,spp diversity,Bacteria
+1737758,spp diversity,Ascomycota
+1737758,spp diversity,Angiosperms
+1738041,spp diversity,Bacteria
+1738041,spp diversity,Fungi
+1738041,spp diversity,Angiosperms
+1046121,niche differentiation,Chlorobionta
+1046328,niche differentiation,Angiosperms
+1046355,niche differentiation,Angiosperms
+1046355,niche differentiation,Gymnosperms
+1136586,niche differentiation,Amphibia
+1136586,niche differentiation,Aves
+1136586,niche differentiation,Reptilia
+1136710,niche differentiation,Chromista
+1136710,niche differentiation,Arthropoda
+1241041,niche differentiation,Aves
+1241255,niche differentiation,Archaea
+1241255,niche differentiation,Proteobacteria
+1241255,niche differentiation,Cyanobacteria
+1241255,niche differentiation,Chromista
+1241255,niche differentiation,Porifera
+1241255,niche differentiation,Cnidaria
+1241255,niche differentiation,Mollusca
+1241255,niche differentiation,Arthropoda
+1241255,niche differentiation,Echinodermata
+1241255,niche differentiation,Osteichthyes
+1342701,niche differentiation,Bacteria
+1342785,niche differentiation,Proteobacteria
+1342785,niche differentiation,Mollusca
+1342787,niche differentiation,Angiosperms
+1342841,niche differentiation,Proteobacteria
+1342841,niche differentiation,Angiosperms
+1442103,niche differentiation,Angiosperms
+1442103,niche differentiation,Arthropoda
+1442231,niche differentiation,Firmicutes
+1442231,niche differentiation,Proteobacteria
+1442231,niche differentiation,Verrucomicrobia
+1442231,niche differentiation,Cyanobacteria
+1442231,niche differentiation,Actinobacteria
+1442231,niche differentiation,Lentisphaerae
+1442231,niche differentiation,Bacteriodetes
+1442231,niche differentiation,Chromista
+1442231,niche differentiation,Chlorobionta
+1442316,niche differentiation,Proteobacteria
+1442316,niche differentiation,Verrucomicrobia
+1442316,niche differentiation,Arthropoda
+1524534,niche differentiation,Reptilia
+1542240,niche differentiation,Proteobacteria
+1542240,niche differentiation,Chloroflexi
+1542240,niche differentiation,Bacteriodetes
+1638999,niche differentiation,Ascomycota
+1638999,niche differentiation,Angiosperms
+1639033,niche differentiation,Cyanobacteria
+1639033,niche differentiation,Chlorobionta
+1639033,niche differentiation,Chromista
+1045977,functional diversity,Ascomycota
+1045977,functional diversity,Basidiomycota
+1045977,functional diversity,Glomeromycota
+1045977,functional diversity,Angiosperms
+1046065,functional diversity,Ascomycota
+1046065,functional diversity,Lichen
+1046065,functional diversity,Bryophyta
+1046065,functional diversity,Angiosperms
+1046065,functional diversity,Gymnosperms
+1046113,functional diversity,Gymnosperms
+1046113,functional diversity,Angiosperms
+1046115,functional diversity,Ascomycota
+1046115,functional diversity,Basidiomycota
+1046115,functional diversity,Zygomycota
+1046115,functional diversity,Gymnosperms
+1046144,functional diversity,Viruses
+1046144,functional diversity,Archaea
+1046144,functional diversity,Proteobacteria
+1046153,functional diversity,Proteobacteria
+1046153,functional diversity,Arthropoda
+1046297,functional diversity,Cyanobacteria
+1046297,functional diversity,Proteobacteria
+1046297,functional diversity,Chromista
+1046328,functional diversity,Angiosperms
+1046372,functional diversity,Arthropoda
+1046372,functional diversity,Bacteria
+1046413,functional diversity,Viruses
+1046413,functional diversity,Cnidaria
+1136484,functional diversity,Archaea
+1136484,functional diversity,Bacteria
+1136586,functional diversity,Amphibia
+1136586,functional diversity,Aves
+1136586,functional diversity,Reptilia
+1136640,functional diversity,Bacteria
+1136640,functional diversity,Amphibia
+1136710,functional diversity,Chromista
+1136710,functional diversity,Arthropoda
+1136727,functional diversity,Bacteria
+1136727,functional diversity,Proteobacteria
+1136818,functional diversity,Viruses
+1136818,functional diversity,Archaea
+1136818,functional diversity,Bacteria
+1136818,functional diversity,Cyanobacteria
+1136818,functional diversity,Chromista
+1136818,functional diversity,Chlorobionta
+1240851,functional diversity,Bacteria
+1240851,functional diversity,Cyanobacteria
+1241046,functional diversity,Archaea
+1241046,functional diversity,Bacteria
+1241046,functional diversity,Proteobacteria
+1241094,functional diversity,Archaea
+1241094,functional diversity,Bacteria
+1241094,functional diversity,Proteobacteria
+1241099,functional diversity,Bacteria
+1241099,functional diversity,Arthropoda
+1241136,functional diversity,Gymnosperms
+1241136,functional diversity,Angiosperms
+1241212,functional diversity,Ascomycota
+1241212,functional diversity,Basidiomycota
+1241221,functional diversity,Viruses
+1241221,functional diversity,Cyanobacteria
+1241221,functional diversity,Proteobacteria
+1241221,functional diversity,Chromista
+1241253,functional diversity,Archaea
+1241253,functional diversity,Bacteria
+1241253,functional diversity,Arthropoda
+1241255,functional diversity,Archaea
+1241255,functional diversity,Proteobacteria
+1241255,functional diversity,Cyanobacteria
+1241255,functional diversity,Chromista
+1241255,functional diversity,Porifera
+1241255,functional diversity,Cnidaria
+1241255,functional diversity,Mollusca
+1241255,functional diversity,Arthropoda
+1241255,functional diversity,Echinodermata
+1241255,functional diversity,Osteichthyes
+1342615,functional diversity,Bacteria
+1342615,functional diversity,Mammalia
+1342754,functional diversity,Angiosperms
+1342754,functional diversity,Gymnosperms
+1342754,functional diversity,Arthropoda
+1342785,functional diversity,Proteobacteria
+1342785,functional diversity,Mollusca
+1342872,functional diversity,Bacteria
+1342872,functional diversity,Proteobacteria
+1342872,functional diversity,Cyanobacteria
+1342872,functional diversity,Ascomycota
+1342872,functional diversity,Basidiomycota
+1342872,functional diversity,Glomeromycota
+1342872,functional diversity,Mucoromycota
+1342872,functional diversity,Zygomycota
+1342872,functional diversity,Gymnosperms
+1342872,functional diversity,Angiosperms
+1442214,functional diversity,Archaea
+1442214,functional diversity,Proteobacteria
+1442214,functional diversity,Verrucomicrobia
+1442262,functional diversity,Bacteria
+1442262,functional diversity,Proteobacteria
+1442262,functional diversity,Acidobacteria
+1442262,functional diversity,Chloroflexi
+1442262,functional diversity,Gemmatimonadetes
+1442262,functional diversity,Actinobacteria
+1442262,functional diversity,Firmicutes
+1442262,functional diversity,Cyanobacteria
+1442262,functional diversity,Chlorobionta
+1442262,functional diversity,Chromista
+1442280,functional diversity,Archaea
+1442280,functional diversity,Bacteria
+1442280,functional diversity,Proteobacteria
+1442280,functional diversity,Cyanobacteria
+1442306,functional diversity,Archaea
+1442306,functional diversity,Bacteria
+1442306,functional diversity,Proteobacteria
+1442306,functional diversity,Cyanobacteria
+1442306,functional diversity,Chromista
+1442306,functional diversity,Ascomycota
+1442306,functional diversity,Basidiomycota
+1442306,functional diversity,Cnidaria
+1442316,functional diversity,Proteobacteria
+1442316,functional diversity,Verrucomicrobia
+1442316,functional diversity,Arthropoda
+1442348,functional diversity,Proteobacteria
+1442348,functional diversity,Ascomycota
+1442348,functional diversity,Gymnosperms
+1524639,functional diversity,Lichen
+1542240,functional diversity,Proteobacteria
+1542240,functional diversity,Chloroflexi
+1542240,functional diversity,Bacteriodetes
+1542506,functional diversity,Archaea
+1542506,functional diversity,Bacteria
+1542506,functional diversity,Firmicutes
+1542506,functional diversity,Proteobacteria
+1542506,functional diversity,Bacteriodetes
+1542609,functional diversity,Cyanobacteria
+1542609,functional diversity,Proteobacteria
+1542609,functional diversity,Bryophyta
+1638296,functional diversity,Cyanobacteria
+1638296,functional diversity,Chromista
+1638296,functional diversity,Chlorobionta
+1638768,functional diversity,Proteobacteria
+1638768,functional diversity,Acidobacteria
+1638768,functional diversity,Chloroflexi
+1638768,functional diversity,Bacteriodetes
+1638768,functional diversity,Actinobacteria
+1638768,functional diversity,Ascomycota
+1638768,functional diversity,Angiosperms
+1638768,functional diversity,Arthropoda
+1638958,functional diversity,Cyanobacteria
+1638958,functional diversity,Chromista
+1639014,functional diversity,Arthropoda
+1045977,variation across variable/gradient,Ascomycota
+1045977,variation across variable/gradient,Basidiomycota
+1045977,variation across variable/gradient,Glomeromycota
+1045977,variation across variable/gradient,Angiosperms
+1046017,variation across variable/gradient,Archaea
+1046017,variation across variable/gradient,Chromista
+1046065,variation across variable/gradient,Ascomycota
+1046065,variation across variable/gradient,Lichen
+1046065,variation across variable/gradient,Bryophyta
+1046065,variation across variable/gradient,Angiosperms
+1046065,variation across variable/gradient,Gymnosperms
+1046113,variation across variable/gradient,Gymnosperms
+1046113,variation across variable/gradient,Angiosperms
+1046153,variation across variable/gradient,Proteobacteria
+1046153,variation across variable/gradient,Arthropoda
+1046297,variation across variable/gradient,Cyanobacteria
+1046297,variation across variable/gradient,Proteobacteria
+1046297,variation across variable/gradient,Chromista
+1046328,variation across variable/gradient,Angiosperms
+1046355,variation across variable/gradient,Angiosperms
+1046355,variation across variable/gradient,Gymnosperms
+1046408,variation across variable/gradient,Arthropoda
+1046408,variation across variable/gradient,Amphibia
+1046408,variation across variable/gradient,Osteichthyes
+1136484,variation across variable/gradient,Archaea
+1136484,variation across variable/gradient,Bacteria
+1136586,variation across variable/gradient,Amphibia
+1136586,variation across variable/gradient,Aves
+1136586,variation across variable/gradient,Reptilia
+1136710,variation across variable/gradient,Chromista
+1136710,variation across variable/gradient,Arthropoda
+1136818,variation across variable/gradient,Viruses
+1136818,variation across variable/gradient,Archaea
+1136818,variation across variable/gradient,Bacteria
+1136818,variation across variable/gradient,Cyanobacteria
+1136818,variation across variable/gradient,Chromista
+1136818,variation across variable/gradient,Chlorobionta
+1241066,variation across variable/gradient,Angiosperms
+1241066,variation across variable/gradient,Arthropoda
+1241066,variation across variable/gradient,Mammalia
+1241066,variation across variable/gradient,Aves
+1241212,variation across variable/gradient,Ascomycota
+1241212,variation across variable/gradient,Basidiomycota
+1241255,variation across variable/gradient,Archaea
+1241255,variation across variable/gradient,Proteobacteria
+1241255,variation across variable/gradient,Cyanobacteria
+1241255,variation across variable/gradient,Chromista
+1241255,variation across variable/gradient,Porifera
+1241255,variation across variable/gradient,Cnidaria
+1241255,variation across variable/gradient,Mollusca
+1241255,variation across variable/gradient,Arthropoda
+1241255,variation across variable/gradient,Echinodermata
+1241255,variation across variable/gradient,Osteichthyes
+1342615,variation across variable/gradient,Bacteria
+1342615,variation across variable/gradient,Mammalia
+1342712,variation across variable/gradient,Arthropoda
+1342754,variation across variable/gradient,Angiosperms
+1342754,variation across variable/gradient,Gymnosperms
+1342754,variation across variable/gradient,Arthropoda
+1342841,variation across variable/gradient,Proteobacteria
+1342841,variation across variable/gradient,Angiosperms
+1342873,variation across variable/gradient,Angiosperms
+1342873,variation across variable/gradient,Arthropoda
+1343578,variation across variable/gradient,Bacteria
+1343578,variation across variable/gradient,Proteobacteria
+1343578,variation across variable/gradient,Chromista
+1343578,variation across variable/gradient,Angiosperms
+1343578,variation across variable/gradient,Arthropoda
+1343578,variation across variable/gradient,Amphibia
+1343578,variation across variable/gradient,Reptilia
+1343578,variation across variable/gradient,Aves
+1442103,variation across variable/gradient,Angiosperms
+1442103,variation across variable/gradient,Arthropoda
+1442214,variation across variable/gradient,Archaea
+1442214,variation across variable/gradient,Proteobacteria
+1442214,variation across variable/gradient,Verrucomicrobia
+1442231,variation across variable/gradient,Firmicutes
+1442231,variation across variable/gradient,Proteobacteria
+1442231,variation across variable/gradient,Verrucomicrobia
+1442231,variation across variable/gradient,Cyanobacteria
+1442231,variation across variable/gradient,Actinobacteria
+1442231,variation across variable/gradient,Lentisphaerae
+1442231,variation across variable/gradient,Bacteriodetes
+1442231,variation across variable/gradient,Chromista
+1442231,variation across variable/gradient,Chlorobionta
+1442246,variation across variable/gradient,Acidobacteria
+1442246,variation across variable/gradient,Actinobacteria
+1442246,variation across variable/gradient,Bacteriodetes
+1442246,variation across variable/gradient,Firmicutes
+1442246,variation across variable/gradient,Gemmatimonadetes
+1442246,variation across variable/gradient,Verrucomicrobia
+1442246,variation across variable/gradient,Angiosperms
+1442246,variation across variable/gradient,Gymnosperms
+1442348,variation across variable/gradient,Proteobacteria
+1442348,variation across variable/gradient,Ascomycota
+1442348,variation across variable/gradient,Gymnosperms
+1524639,variation across variable/gradient,Lichen
+1542555,variation across variable/gradient,Chromista
+1542679,variation across variable/gradient,Ctenophora
+1638768,variation across variable/gradient,Proteobacteria
+1638768,variation across variable/gradient,Acidobacteria
+1638768,variation across variable/gradient,Chloroflexi
+1638768,variation across variable/gradient,Bacteriodetes
+1638768,variation across variable/gradient,Actinobacteria
+1638768,variation across variable/gradient,Ascomycota
+1638768,variation across variable/gradient,Angiosperms
+1638768,variation across variable/gradient,Arthropoda
+1638943,variation across variable/gradient,Bryophyta
+1638958,variation across variable/gradient,Cyanobacteria
+1638958,variation across variable/gradient,Chromista
+1638999,variation across variable/gradient,Ascomycota
+1638999,variation across variable/gradient,Angiosperms
+1639014,variation across variable/gradient,Arthropoda
+1639033,variation across variable/gradient,Cyanobacteria
+1639033,variation across variable/gradient,Chlorobionta
+1639033,variation across variable/gradient,Chromista
+1737869,variation across variable/gradient,Basidiomycota
+1737869,variation across variable/gradient,Arthropoda
+1737889,variation across variable/gradient,Angiosperms
+1737889,variation across variable/gradient,Aves
+1737889,variation across variable/gradient,Arthropoda
+1737899,variation across variable/gradient,Bryophyta
+1738009,variation across variable/gradient,Proteobacteria
+1738009,variation across variable/gradient,Angiosperms
+1738041,variation across variable/gradient,Bacteria
+1738041,variation across variable/gradient,Fungi
+1738041,variation across variable/gradient,Angiosperms
+1046408,ecosystem response,Arthropoda
+1046408,ecosystem response,Amphibia
+1046408,ecosystem response,Osteichthyes
+1240804,ecosystem response,Proteobacteria
+1240804,ecosystem response,Arthropoda
+1240851,ecosystem response,Bacteria
+1240851,ecosystem response,Cyanobacteria
+1241046,ecosystem response,Archaea
+1241046,ecosystem response,Bacteria
+1241046,ecosystem response,Proteobacteria
+1241221,ecosystem response,Viruses
+1241221,ecosystem response,Cyanobacteria
+1241221,ecosystem response,Proteobacteria
+1241221,ecosystem response,Chromista
+1342754,ecosystem response,Angiosperms
+1342754,ecosystem response,Gymnosperms
+1342754,ecosystem response,Arthropoda
+1342841,ecosystem response,Proteobacteria
+1342841,ecosystem response,Angiosperms
+1342872,ecosystem response,Bacteria
+1342872,ecosystem response,Proteobacteria
+1342872,ecosystem response,Cyanobacteria
+1342872,ecosystem response,Ascomycota
+1342872,ecosystem response,Basidiomycota
+1342872,ecosystem response,Glomeromycota
+1342872,ecosystem response,Mucoromycota
+1342872,ecosystem response,Zygomycota
+1342872,ecosystem response,Gymnosperms
+1342872,ecosystem response,Angiosperms
+1343578,ecosystem response,Bacteria
+1343578,ecosystem response,Proteobacteria
+1343578,ecosystem response,Chromista
+1343578,ecosystem response,Angiosperms
+1343578,ecosystem response,Arthropoda
+1343578,ecosystem response,Amphibia
+1343578,ecosystem response,Reptilia
+1343578,ecosystem response,Aves
+1442103,ecosystem response,Angiosperms
+1442103,ecosystem response,Arthropoda
+1442246,ecosystem response,Acidobacteria
+1442246,ecosystem response,Actinobacteria
+1442246,ecosystem response,Bacteriodetes
+1442246,ecosystem response,Firmicutes
+1442246,ecosystem response,Gemmatimonadetes
+1442246,ecosystem response,Verrucomicrobia
+1442246,ecosystem response,Angiosperms
+1442246,ecosystem response,Gymnosperms
+1638958,ecosystem response,Cyanobacteria
+1638958,ecosystem response,Chromista
+1046113,ecological adaptation,Gymnosperms
+1046113,ecological adaptation,Angiosperms
+1046372,ecological adaptation,Arthropoda
+1046372,ecological adaptation,Bacteria
+1046408,ecological adaptation,Arthropoda
+1046408,ecological adaptation,Amphibia
+1046408,ecological adaptation,Osteichthyes
+1136345,ecological adaptation,Cyanobacteria
+1136345,ecological adaptation,Chlorobionta
+1136345,ecological adaptation,Chromista
+1136345,ecological adaptation,Oomycota
+1136707,ecological adaptation,Angiosperms
+1241006,ecological adaptation,Angiosperms
+1241041,ecological adaptation,Aves
+1241046,ecological adaptation,Archaea
+1241046,ecological adaptation,Bacteria
+1241046,ecological adaptation,Proteobacteria
+1342712,ecological adaptation,Arthropoda
+1342787,ecological adaptation,Angiosperms
+1442142,ecological adaptation,Mammalia
+1442148,ecological adaptation,Ascomycota
+1442199,ecological adaptation,Angiosperms
+1442262,ecological adaptation,Bacteria
+1442262,ecological adaptation,Proteobacteria
+1442262,ecological adaptation,Acidobacteria
+1442262,ecological adaptation,Chloroflexi
+1442262,ecological adaptation,Gemmatimonadetes
+1442262,ecological adaptation,Actinobacteria
+1442262,ecological adaptation,Firmicutes
+1442262,ecological adaptation,Cyanobacteria
+1442262,ecological adaptation,Chlorobionta
+1442262,ecological adaptation,Chromista
+1442280,ecological adaptation,Archaea
+1442280,ecological adaptation,Bacteria
+1442280,ecological adaptation,Proteobacteria
+1442280,ecological adaptation,Cyanobacteria
+1524534,ecological adaptation,Reptilia
+1524639,ecological adaptation,Lichen
+1542555,ecological adaptation,Chromista
+1542599,ecological adaptation,Angiosperms
+1542599,ecological adaptation,Arthropoda
+1542609,ecological adaptation,Cyanobacteria
+1542609,ecological adaptation,Proteobacteria
+1542609,ecological adaptation,Bryophyta
+1542679,ecological adaptation,Ctenophora
+1638768,ecological adaptation,Proteobacteria
+1638768,ecological adaptation,Acidobacteria
+1638768,ecological adaptation,Chloroflexi
+1638768,ecological adaptation,Bacteriodetes
+1638768,ecological adaptation,Actinobacteria
+1638768,ecological adaptation,Ascomycota
+1638768,ecological adaptation,Angiosperms
+1638768,ecological adaptation,Arthropoda
+1638778,ecological adaptation,Osteichthyes
+1638943,ecological adaptation,Bryophyta
+1638958,ecological adaptation,Cyanobacteria
+1638958,ecological adaptation,Chromista
+1638997,ecological adaptation,Arthropoda
+1639014,ecological adaptation,Arthropoda
+1737869,ecological adaptation,Basidiomycota
+1737869,ecological adaptation,Arthropoda
+1737889,ecological adaptation,Angiosperms
+1737889,ecological adaptation,Aves
+1737889,ecological adaptation,Arthropoda
+1737899,ecological adaptation,Bryophyta
+1045977,climate change,Ascomycota
+1045977,climate change,Basidiomycota
+1045977,climate change,Glomeromycota
+1045977,climate change,Angiosperms
+1046113,climate change,Gymnosperms
+1046113,climate change,Angiosperms
+1046328,climate change,Angiosperms
+1046355,climate change,Angiosperms
+1046355,climate change,Gymnosperms
+1046408,climate change,Arthropoda
+1046408,climate change,Amphibia
+1046408,climate change,Osteichthyes
+1136703,climate change,Arthropoda
+1136710,climate change,Chromista
+1136710,climate change,Arthropoda
+1240804,climate change,Proteobacteria
+1240804,climate change,Arthropoda
+1241066,climate change,Angiosperms
+1241066,climate change,Arthropoda
+1241066,climate change,Mammalia
+1241066,climate change,Aves
+1241255,climate change,Archaea
+1241255,climate change,Proteobacteria
+1241255,climate change,Cyanobacteria
+1241255,climate change,Chromista
+1241255,climate change,Porifera
+1241255,climate change,Cnidaria
+1241255,climate change,Mollusca
+1241255,climate change,Arthropoda
+1241255,climate change,Echinodermata
+1241255,climate change,Osteichthyes
+1342787,climate change,Angiosperms
+1343578,climate change,Bacteria
+1343578,climate change,Proteobacteria
+1343578,climate change,Chromista
+1343578,climate change,Angiosperms
+1343578,climate change,Arthropoda
+1343578,climate change,Amphibia
+1343578,climate change,Reptilia
+1343578,climate change,Aves
+1442231,climate change,Firmicutes
+1442231,climate change,Proteobacteria
+1442231,climate change,Verrucomicrobia
+1442231,climate change,Cyanobacteria
+1442231,climate change,Actinobacteria
+1442231,climate change,Lentisphaerae
+1442231,climate change,Bacteriodetes
+1442231,climate change,Chromista
+1442231,climate change,Chlorobionta
+1442280,climate change,Archaea
+1442280,climate change,Bacteria
+1442280,climate change,Proteobacteria
+1442280,climate change,Cyanobacteria
+1542240,climate change,Proteobacteria
+1542240,climate change,Chloroflexi
+1542240,climate change,Bacteriodetes
+1542609,climate change,Cyanobacteria
+1542609,climate change,Proteobacteria
+1542609,climate change,Bryophyta
+1638943,climate change,Bryophyta
+1638958,climate change,Cyanobacteria
+1638958,climate change,Chromista
+1639014,climate change,Arthropoda
+1737899,climate change,Bryophyta
+1046017,sp-sp interactions other,Archaea
+1046017,sp-sp interactions other,Chromista
+1046144,sp-sp interactions other,Viruses
+1046144,sp-sp interactions other,Archaea
+1046144,sp-sp interactions other,Proteobacteria
+1046149,sp-sp interactions other,Bacteria
+1046149,sp-sp interactions other,Arthropoda
+1135733,sp-sp interactions other,Angiosperms
+1135733,sp-sp interactions other,Arthropoda
+1136484,sp-sp interactions other,Archaea
+1136484,sp-sp interactions other,Bacteria
+1136640,sp-sp interactions other,Bacteria
+1136640,sp-sp interactions other,Amphibia
+1136727,sp-sp interactions other,Bacteria
+1136727,sp-sp interactions other,Proteobacteria
+1240804,sp-sp interactions other,Proteobacteria
+1240804,sp-sp interactions other,Arthropoda
+1241041,sp-sp interactions other,Aves
+1241046,sp-sp interactions other,Archaea
+1241046,sp-sp interactions other,Bacteria
+1241046,sp-sp interactions other,Proteobacteria
+1241094,sp-sp interactions other,Archaea
+1241094,sp-sp interactions other,Bacteria
+1241094,sp-sp interactions other,Proteobacteria
+1342600,sp-sp interactions other,Arthropoda
+1342600,sp-sp interactions other,Aves
+1342694,sp-sp interactions other,Proteobacteria
+1342712,sp-sp interactions other,Arthropoda
+1342841,sp-sp interactions other,Proteobacteria
+1342841,sp-sp interactions other,Angiosperms
+1342873,sp-sp interactions other,Angiosperms
+1342873,sp-sp interactions other,Arthropoda
+1442103,sp-sp interactions other,Angiosperms
+1442103,sp-sp interactions other,Arthropoda
+1442246,sp-sp interactions other,Acidobacteria
+1442246,sp-sp interactions other,Actinobacteria
+1442246,sp-sp interactions other,Bacteriodetes
+1442246,sp-sp interactions other,Firmicutes
+1442246,sp-sp interactions other,Gemmatimonadetes
+1442246,sp-sp interactions other,Verrucomicrobia
+1442246,sp-sp interactions other,Angiosperms
+1442246,sp-sp interactions other,Gymnosperms
+1442280,sp-sp interactions other,Archaea
+1442280,sp-sp interactions other,Bacteria
+1442280,sp-sp interactions other,Proteobacteria
+1442280,sp-sp interactions other,Cyanobacteria
+1442306,sp-sp interactions other,Archaea
+1442306,sp-sp interactions other,Bacteria
+1442306,sp-sp interactions other,Proteobacteria
+1442306,sp-sp interactions other,Cyanobacteria
+1442306,sp-sp interactions other,Chromista
+1442306,sp-sp interactions other,Ascomycota
+1442306,sp-sp interactions other,Basidiomycota
+1442306,sp-sp interactions other,Cnidaria
+1542451,sp-sp interactions other,Viruses
+1542451,sp-sp interactions other,Proteobacteria
+1542451,sp-sp interactions other,Tenericutes
+1542451,sp-sp interactions other,Angiosperms
+1542451,sp-sp interactions other,Arthropoda
+1542599,sp-sp interactions other,Angiosperms
+1542599,sp-sp interactions other,Arthropoda
+1542609,sp-sp interactions other,Cyanobacteria
+1542609,sp-sp interactions other,Proteobacteria
+1542609,sp-sp interactions other,Bryophyta
+1542681,sp-sp interactions other,Oomycota
+1542681,sp-sp interactions other,Angiosperms
+1638296,sp-sp interactions other,Cyanobacteria
+1638296,sp-sp interactions other,Chromista
+1638296,sp-sp interactions other,Chlorobionta
+1638768,sp-sp interactions other,Proteobacteria
+1638768,sp-sp interactions other,Acidobacteria
+1638768,sp-sp interactions other,Chloroflexi
+1638768,sp-sp interactions other,Bacteriodetes
+1638768,sp-sp interactions other,Actinobacteria
+1638768,sp-sp interactions other,Ascomycota
+1638768,sp-sp interactions other,Angiosperms
+1638768,sp-sp interactions other,Arthropoda
+1638999,sp-sp interactions other,Ascomycota
+1638999,sp-sp interactions other,Angiosperms
+1639033,sp-sp interactions other,Cyanobacteria
+1639033,sp-sp interactions other,Chlorobionta
+1639033,sp-sp interactions other,Chromista
+1737758,sp-sp interactions other,Bacteria
+1737758,sp-sp interactions other,Ascomycota
+1737758,sp-sp interactions other,Angiosperms
+1737889,sp-sp interactions other,Angiosperms
+1737889,sp-sp interactions other,Aves
+1737889,sp-sp interactions other,Arthropoda
+1738041,sp-sp interactions other,Bacteria
+1738041,sp-sp interactions other,Fungi
+1738041,sp-sp interactions other,Angiosperms
+1046065,sp-sp interactions- symbioses,Ascomycota
+1046065,sp-sp interactions- symbioses,Lichen
+1046065,sp-sp interactions- symbioses,Bryophyta
+1046065,sp-sp interactions- symbioses,Angiosperms
+1046065,sp-sp interactions- symbioses,Gymnosperms
+1046372,sp-sp interactions- symbioses,Arthropoda
+1046372,sp-sp interactions- symbioses,Bacteria
+1136710,sp-sp interactions- symbioses,Chromista
+1136710,sp-sp interactions- symbioses,Arthropoda
+1240804,sp-sp interactions- symbioses,Proteobacteria
+1240804,sp-sp interactions- symbioses,Arthropoda
+1241099,sp-sp interactions- symbioses,Bacteria
+1241099,sp-sp interactions- symbioses,Arthropoda
+1342615,sp-sp interactions- symbioses,Bacteria
+1342615,sp-sp interactions- symbioses,Mammalia
+1342785,sp-sp interactions- symbioses,Proteobacteria
+1342785,sp-sp interactions- symbioses,Mollusca
+1342841,sp-sp interactions- symbioses,Proteobacteria
+1342841,sp-sp interactions- symbioses,Angiosperms
+1342876,sp-sp interactions- symbioses,Viruses
+1342876,sp-sp interactions- symbioses,Archaea
+1442231,sp-sp interactions- symbioses,Firmicutes
+1442231,sp-sp interactions- symbioses,Proteobacteria
+1442231,sp-sp interactions- symbioses,Verrucomicrobia
+1442231,sp-sp interactions- symbioses,Cyanobacteria
+1442231,sp-sp interactions- symbioses,Actinobacteria
+1442231,sp-sp interactions- symbioses,Lentisphaerae
+1442231,sp-sp interactions- symbioses,Bacteriodetes
+1442231,sp-sp interactions- symbioses,Chromista
+1442231,sp-sp interactions- symbioses,Chlorobionta
+1442306,sp-sp interactions- symbioses,Archaea
+1442306,sp-sp interactions- symbioses,Bacteria
+1442306,sp-sp interactions- symbioses,Proteobacteria
+1442306,sp-sp interactions- symbioses,Cyanobacteria
+1442306,sp-sp interactions- symbioses,Chromista
+1442306,sp-sp interactions- symbioses,Ascomycota
+1442306,sp-sp interactions- symbioses,Basidiomycota
+1442306,sp-sp interactions- symbioses,Cnidaria
+1442316,sp-sp interactions- symbioses,Proteobacteria
+1442316,sp-sp interactions- symbioses,Verrucomicrobia
+1442316,sp-sp interactions- symbioses,Arthropoda
+1442348,sp-sp interactions- symbioses,Proteobacteria
+1442348,sp-sp interactions- symbioses,Ascomycota
+1442348,sp-sp interactions- symbioses,Gymnosperms
+1524639,sp-sp interactions- symbioses,Lichen
+1542599,sp-sp interactions- symbioses,Angiosperms
+1542599,sp-sp interactions- symbioses,Arthropoda
+1638999,sp-sp interactions- symbioses,Ascomycota
+1638999,sp-sp interactions- symbioses,Angiosperms
+1737889,sp-sp interactions- symbioses,Angiosperms
+1737889,sp-sp interactions- symbioses,Aves
+1737889,sp-sp interactions- symbioses,Arthropoda
+1737898,sp-sp interactions- symbioses,Proteobacteria
+1737898,sp-sp interactions- symbioses,Chlorobionta
+1737898,sp-sp interactions- symbioses,Chromista
+1737898,sp-sp interactions- symbioses,Glomeromycota
+1737898,sp-sp interactions- symbioses,Mucoromycota
+1737898,sp-sp interactions- symbioses,Zygomycota
+1737898,sp-sp interactions- symbioses,Bryophyta
+1737898,sp-sp interactions- symbioses,Gymnosperms
+1737898,sp-sp interactions- symbioses,Angiosperms
+1738009,sp-sp interactions- symbioses,Proteobacteria
+1738009,sp-sp interactions- symbioses,Angiosperms
+1046153,disturbance impacts,Proteobacteria
+1046153,disturbance impacts,Arthropoda
+1046328,disturbance impacts,Angiosperms
+1046413,disturbance impacts,Viruses
+1046413,disturbance impacts,Cnidaria
+1136586,disturbance impacts,Amphibia
+1136586,disturbance impacts,Aves
+1136586,disturbance impacts,Reptilia
+1136818,disturbance impacts,Viruses
+1136818,disturbance impacts,Archaea
+1136818,disturbance impacts,Bacteria
+1136818,disturbance impacts,Cyanobacteria
+1136818,disturbance impacts,Chromista
+1136818,disturbance impacts,Chlorobionta
+1240851,disturbance impacts,Bacteria
+1240851,disturbance impacts,Cyanobacteria
+1241046,disturbance impacts,Archaea
+1241046,disturbance impacts,Bacteria
+1241046,disturbance impacts,Proteobacteria
+1241221,disturbance impacts,Viruses
+1241221,disturbance impacts,Cyanobacteria
+1241221,disturbance impacts,Proteobacteria
+1241221,disturbance impacts,Chromista
+1342754,disturbance impacts,Angiosperms
+1342754,disturbance impacts,Gymnosperms
+1342754,disturbance impacts,Arthropoda
+1342785,disturbance impacts,Proteobacteria
+1342785,disturbance impacts,Mollusca
+1442103,disturbance impacts,Angiosperms
+1442103,disturbance impacts,Arthropoda
+1442214,disturbance impacts,Archaea
+1442214,disturbance impacts,Proteobacteria
+1442214,disturbance impacts,Verrucomicrobia
+1442246,disturbance impacts,Acidobacteria
+1442246,disturbance impacts,Actinobacteria
+1442246,disturbance impacts,Bacteriodetes
+1442246,disturbance impacts,Firmicutes
+1442246,disturbance impacts,Gemmatimonadetes
+1442246,disturbance impacts,Verrucomicrobia
+1442246,disturbance impacts,Angiosperms
+1442246,disturbance impacts,Gymnosperms
+1524639,disturbance impacts,Lichen
+1638958,disturbance impacts,Cyanobacteria
+1638958,disturbance impacts,Chromista
+1738041,disturbance impacts,Bacteria
+1738041,disturbance impacts,Fungi
+1738041,disturbance impacts,Angiosperms
+1046121,trait evolution,Chlorobionta
+1046328,trait evolution,Angiosperms
+1046355,trait evolution,Angiosperms
+1046355,trait evolution,Gymnosperms
+1046408,trait evolution,Arthropoda
+1046408,trait evolution,Amphibia
+1046408,trait evolution,Osteichthyes
+1135733,trait evolution,Angiosperms
+1135733,trait evolution,Arthropoda
+1136703,trait evolution,Arthropoda
+1136707,trait evolution,Angiosperms
+1241041,trait evolution,Aves
+1241253,trait evolution,Archaea
+1241253,trait evolution,Bacteria
+1241253,trait evolution,Arthropoda
+1342600,trait evolution,Arthropoda
+1342600,trait evolution,Aves
+1342615,trait evolution,Bacteria
+1342615,trait evolution,Mammalia
+1342712,trait evolution,Arthropoda
+1342785,trait evolution,Proteobacteria
+1342785,trait evolution,Mollusca
+1342787,trait evolution,Angiosperms
+1342841,trait evolution,Proteobacteria
+1342841,trait evolution,Angiosperms
+1442142,trait evolution,Mammalia
+1442148,trait evolution,Ascomycota
+1442199,trait evolution,Angiosperms
+1442262,trait evolution,Bacteria
+1442262,trait evolution,Proteobacteria
+1442262,trait evolution,Acidobacteria
+1442262,trait evolution,Chloroflexi
+1442262,trait evolution,Gemmatimonadetes
+1442262,trait evolution,Actinobacteria
+1442262,trait evolution,Firmicutes
+1442262,trait evolution,Cyanobacteria
+1442262,trait evolution,Chlorobionta
+1442262,trait evolution,Chromista
+1442280,trait evolution,Archaea
+1442280,trait evolution,Bacteria
+1442280,trait evolution,Proteobacteria
+1442280,trait evolution,Cyanobacteria
+1442316,trait evolution,Proteobacteria
+1442316,trait evolution,Verrucomicrobia
+1442316,trait evolution,Arthropoda
+1524534,trait evolution,Reptilia
+1542402,trait evolution,Angiosperms
+1542402,trait evolution,Arthropoda
+1542402,trait evolution,Aves
+1542555,trait evolution,Chromista
+1542599,trait evolution,Angiosperms
+1542599,trait evolution,Arthropoda
+1542679,trait evolution,Ctenophora
+1542681,trait evolution,Oomycota
+1542681,trait evolution,Angiosperms
+1638778,trait evolution,Osteichthyes
+1638872,trait evolution,Reptilia
+1638999,trait evolution,Ascomycota
+1638999,trait evolution,Angiosperms
+1737869,trait evolution,Basidiomycota
+1737869,trait evolution,Arthropoda
+1737898,trait evolution,Proteobacteria
+1737898,trait evolution,Chlorobionta
+1737898,trait evolution,Chromista
+1737898,trait evolution,Glomeromycota
+1737898,trait evolution,Mucoromycota
+1737898,trait evolution,Zygomycota
+1737898,trait evolution,Bryophyta
+1737898,trait evolution,Gymnosperms
+1737898,trait evolution,Angiosperms
+1737899,trait evolution,Bryophyta
+1136626,pathogens,Basidiomycota
+1136626,pathogens,Angiosperms
+1136626,pathogens,Gymnosperms
+1136640,pathogens,Bacteria
+1136640,pathogens,Amphibia
+1342876,pathogens,Viruses
+1342876,pathogens,Archaea
+1442306,pathogens,Archaea
+1442306,pathogens,Bacteria
+1442306,pathogens,Proteobacteria
+1442306,pathogens,Cyanobacteria
+1442306,pathogens,Chromista
+1442306,pathogens,Ascomycota
+1442306,pathogens,Basidiomycota
+1442306,pathogens,Cnidaria
+1738041,pathogens,Bacteria
+1738041,pathogens,Fungi
+1738041,pathogens,Angiosperms
+1046149,speciation,Bacteria
+1046149,speciation,Arthropoda
+1241006,speciation,Angiosperms
+1241041,speciation,Aves
+1542451,speciation,Viruses
+1542451,speciation,Proteobacteria
+1542451,speciation,Tenericutes
+1542451,speciation,Angiosperms
+1542451,speciation,Arthropoda
+1638997,speciation,Arthropoda
+1737889,speciation,Angiosperms
+1737889,speciation,Aves
+1737889,speciation,Arthropoda
+1046113,plasticity,Gymnosperms
+1046113,plasticity,Angiosperms
+1046297,plasticity,Cyanobacteria
+1046297,plasticity,Proteobacteria
+1046297,plasticity,Chromista
+1046328,plasticity,Angiosperms
+1046413,plasticity,Viruses
+1046413,plasticity,Cnidaria
+1136703,plasticity,Arthropoda
+1136707,plasticity,Angiosperms
+1136710,plasticity,Chromista
+1136710,plasticity,Arthropoda
+1241006,plasticity,Angiosperms
+1241041,plasticity,Aves
+1241253,plasticity,Archaea
+1241253,plasticity,Bacteria
+1241253,plasticity,Arthropoda
+1342841,plasticity,Proteobacteria
+1342841,plasticity,Angiosperms
+1542555,plasticity,Chromista
+1542681,plasticity,Oomycota
+1542681,plasticity,Angiosperms
+1638778,plasticity,Osteichthyes
+1638872,plasticity,Reptilia
+1638943,plasticity,Bryophyta
+1638958,plasticity,Cyanobacteria
+1638958,plasticity,Chromista
+1737899,plasticity,Bryophyta
+1046413,species discovery,Viruses
+1046413,species discovery,Cnidaria
+1241161,species discovery,Proteobacteria
+1241161,species discovery,Cyanobacteria
+1241161,species discovery,Ascomycota
+1342701,species discovery,Bacteria
+1442348,species discovery,Proteobacteria
+1442348,species discovery,Ascomycota
+1442348,species discovery,Gymnosperms
+1542451,species discovery,Viruses
+1542451,species discovery,Proteobacteria
+1542451,species discovery,Tenericutes
+1542451,species discovery,Angiosperms
+1542451,species discovery,Arthropoda
+1046355,spp invasions,Angiosperms
+1046355,spp invasions,Gymnosperms
+1046372,spp invasions,Arthropoda
+1046372,spp invasions,Bacteria
+1046153,gene expression patterns,Proteobacteria
+1046153,gene expression patterns,Arthropoda
+1046413,gene expression patterns,Viruses
+1046413,gene expression patterns,Cnidaria
+1136484,gene expression patterns,Archaea
+1136484,gene expression patterns,Bacteria
+1136640,gene expression patterns,Bacteria
+1136640,gene expression patterns,Amphibia
+1136703,gene expression patterns,Arthropoda
+1136727,gene expression patterns,Bacteria
+1136727,gene expression patterns,Proteobacteria
+1241006,gene expression patterns,Angiosperms
+1241212,gene expression patterns,Ascomycota
+1241212,gene expression patterns,Basidiomycota
+1241221,gene expression patterns,Viruses
+1241221,gene expression patterns,Cyanobacteria
+1241221,gene expression patterns,Proteobacteria
+1241221,gene expression patterns,Chromista
+1342615,gene expression patterns,Bacteria
+1342615,gene expression patterns,Mammalia
+1342787,gene expression patterns,Angiosperms
+1342872,gene expression patterns,Bacteria
+1342872,gene expression patterns,Proteobacteria
+1342872,gene expression patterns,Cyanobacteria
+1342872,gene expression patterns,Ascomycota
+1342872,gene expression patterns,Basidiomycota
+1342872,gene expression patterns,Glomeromycota
+1342872,gene expression patterns,Mucoromycota
+1342872,gene expression patterns,Zygomycota
+1342872,gene expression patterns,Gymnosperms
+1342872,gene expression patterns,Angiosperms
+1442142,gene expression patterns,Mammalia
+1442214,gene expression patterns,Archaea
+1442214,gene expression patterns,Proteobacteria
+1442214,gene expression patterns,Verrucomicrobia
+1542555,gene expression patterns,Chromista
+1638778,gene expression patterns,Osteichthyes
+1638997,gene expression patterns,Arthropoda
+1737898,gene expression patterns,Proteobacteria
+1737898,gene expression patterns,Chlorobionta
+1737898,gene expression patterns,Chromista
+1737898,gene expression patterns,Glomeromycota
+1737898,gene expression patterns,Mucoromycota
+1737898,gene expression patterns,Zygomycota
+1737898,gene expression patterns,Bryophyta
+1737898,gene expression patterns,Gymnosperms
+1737898,gene expression patterns,Angiosperms
+1046355,natural history,Angiosperms
+1046355,natural history,Gymnosperms
+1136345,natural history,Cyanobacteria
+1136345,natural history,Chlorobionta
+1136345,natural history,Chromista
+1136345,natural history,Oomycota
+1136727,natural history,Bacteria
+1136727,natural history,Proteobacteria
+1241161,natural history,Proteobacteria
+1241161,natural history,Cyanobacteria
+1241161,natural history,Ascomycota
+1342712,natural history,Arthropoda
+1342873,natural history,Angiosperms
+1342873,natural history,Arthropoda
+1342876,natural history,Viruses
+1342876,natural history,Archaea
+1442246,natural history,Acidobacteria
+1442246,natural history,Actinobacteria
+1442246,natural history,Bacteriodetes
+1442246,natural history,Firmicutes
+1442246,natural history,Gemmatimonadetes
+1442246,natural history,Verrucomicrobia
+1442246,natural history,Angiosperms
+1442246,natural history,Gymnosperms
+1442348,natural history,Proteobacteria
+1442348,natural history,Ascomycota
+1442348,natural history,Gymnosperms
+1638943,natural history,Bryophyta
+1638997,natural history,Arthropoda
+1639014,natural history,Arthropoda
+1737758,natural history,Bacteria
+1737758,natural history,Ascomycota
+1737758,natural history,Angiosperms
+1737899,natural history,Bryophyta
+1135733,rates of diversification/adaptive radiation,Angiosperms
+1135733,rates of diversification/adaptive radiation,Arthropoda
+1241253,rates of diversification/adaptive radiation,Archaea
+1241253,rates of diversification/adaptive radiation,Bacteria
+1241253,rates of diversification/adaptive radiation,Arthropoda
+1342600,rates of diversification/adaptive radiation,Arthropoda
+1342600,rates of diversification/adaptive radiation,Aves
+1342712,rates of diversification/adaptive radiation,Arthropoda
+1442142,rates of diversification/adaptive radiation,Mammalia
+1442148,rates of diversification/adaptive radiation,Ascomycota
+1442199,rates of diversification/adaptive radiation,Angiosperms
+1524534,rates of diversification/adaptive radiation,Reptilia
+1542679,rates of diversification/adaptive radiation,Ctenophora
+1638872,rates of diversification/adaptive radiation,Reptilia
+1737898,rates of diversification/adaptive radiation,Proteobacteria
+1737898,rates of diversification/adaptive radiation,Chlorobionta
+1737898,rates of diversification/adaptive radiation,Chromista
+1737898,rates of diversification/adaptive radiation,Glomeromycota
+1737898,rates of diversification/adaptive radiation,Mucoromycota
+1737898,rates of diversification/adaptive radiation,Zygomycota
+1737898,rates of diversification/adaptive radiation,Bryophyta
+1737898,rates of diversification/adaptive radiation,Gymnosperms
+1737898,rates of diversification/adaptive radiation,Angiosperms
+1241136,convergence,Gymnosperms
+1241136,convergence,Angiosperms
+1241255,convergence,Archaea
+1241255,convergence,Proteobacteria
+1241255,convergence,Cyanobacteria
+1241255,convergence,Chromista
+1241255,convergence,Porifera
+1241255,convergence,Cnidaria
+1241255,convergence,Mollusca
+1241255,convergence,Arthropoda
+1241255,convergence,Echinodermata
+1241255,convergence,Osteichthyes
+1342712,convergence,Arthropoda
+1442148,convergence,Ascomycota
+1524534,convergence,Reptilia
+1542679,convergence,Ctenophora
+1136707,genetic basis of functional change,Angiosperms
+1342600,genetic basis of functional change,Arthropoda
+1342600,genetic basis of functional change,Aves
+1342712,genetic basis of functional change,Arthropoda
+1342873,genetic basis of functional change,Angiosperms
+1342873,genetic basis of functional change,Arthropoda
+1442142,genetic basis of functional change,Mammalia
+1442148,genetic basis of functional change,Ascomycota
+1442199,genetic basis of functional change,Angiosperms
+1542402,genetic basis of functional change,Angiosperms
+1542402,genetic basis of functional change,Arthropoda
+1542402,genetic basis of functional change,Aves
+1542451,genetic basis of functional change,Viruses
+1542451,genetic basis of functional change,Proteobacteria
+1542451,genetic basis of functional change,Tenericutes
+1542451,genetic basis of functional change,Angiosperms
+1542451,genetic basis of functional change,Arthropoda
+1542506,genetic basis of functional change,Archaea
+1542506,genetic basis of functional change,Bacteria
+1542506,genetic basis of functional change,Firmicutes
+1542506,genetic basis of functional change,Proteobacteria
+1542506,genetic basis of functional change,Bacteriodetes
+1542555,genetic basis of functional change,Chromista
+1542599,genetic basis of functional change,Angiosperms
+1542599,genetic basis of functional change,Arthropoda
+1542679,genetic basis of functional change,Ctenophora
+1638778,genetic basis of functional change,Osteichthyes
+1638872,genetic basis of functional change,Reptilia
+1638997,genetic basis of functional change,Arthropoda
+1639033,genetic basis of functional change,Cyanobacteria
+1639033,genetic basis of functional change,Chlorobionta
+1639033,genetic basis of functional change,Chromista
+1737869,genetic basis of functional change,Basidiomycota
+1737869,genetic basis of functional change,Arthropoda
+1737898,genetic basis of functional change,Proteobacteria
+1737898,genetic basis of functional change,Chlorobionta
+1737898,genetic basis of functional change,Chromista
+1737898,genetic basis of functional change,Glomeromycota
+1737898,genetic basis of functional change,Mucoromycota
+1737898,genetic basis of functional change,Zygomycota
+1737898,genetic basis of functional change,Bryophyta
+1737898,genetic basis of functional change,Gymnosperms
+1737898,genetic basis of functional change,Angiosperms
+1737899,genetic basis of functional change,Bryophyta
+1738009,genetic basis of functional change,Proteobacteria
+1738009,genetic basis of functional change,Angiosperms
+1241066,phylogeography,Angiosperms
+1241066,phylogeography,Arthropoda
+1241066,phylogeography,Mammalia
+1241066,phylogeography,Aves
+1342785,phylogeography,Proteobacteria
+1342785,phylogeography,Mollusca
+1342787,phylogeography,Angiosperms
+1342873,phylogeography,Angiosperms
+1342873,phylogeography,Arthropoda
+1343578,phylogeography,Bacteria
+1343578,phylogeography,Proteobacteria
+1343578,phylogeography,Chromista
+1343578,phylogeography,Angiosperms
+1343578,phylogeography,Arthropoda
+1343578,phylogeography,Amphibia
+1343578,phylogeography,Reptilia
+1343578,phylogeography,Aves
+1442246,phylogeography,Acidobacteria
+1442246,phylogeography,Actinobacteria
+1442246,phylogeography,Bacteriodetes
+1442246,phylogeography,Firmicutes
+1442246,phylogeography,Gemmatimonadetes
+1442246,phylogeography,Verrucomicrobia
+1442246,phylogeography,Angiosperms
+1442246,phylogeography,Gymnosperms
+1442280,phylogeography,Archaea
+1442280,phylogeography,Bacteria
+1442280,phylogeography,Proteobacteria
+1442280,phylogeography,Cyanobacteria
+1442316,phylogeography,Proteobacteria
+1442316,phylogeography,Verrucomicrobia
+1442316,phylogeography,Arthropoda
+1524639,phylogeography,Lichen
+1638943,phylogeography,Bryophyta
+1046153,fitness,Proteobacteria
+1046153,fitness,Arthropoda
+1046408,fitness,Arthropoda
+1046408,fitness,Amphibia
+1046408,fitness,Osteichthyes
+1136707,fitness,Angiosperms
+1241006,fitness,Angiosperms
+1241099,fitness,Bacteria
+1241099,fitness,Arthropoda
+1342841,fitness,Proteobacteria
+1342841,fitness,Angiosperms
+1342873,fitness,Angiosperms
+1342873,fitness,Arthropoda
+1342876,fitness,Viruses
+1342876,fitness,Archaea
+1442142,fitness,Mammalia
+1442214,fitness,Archaea
+1442214,fitness,Proteobacteria
+1442214,fitness,Verrucomicrobia
+1442246,fitness,Acidobacteria
+1442246,fitness,Actinobacteria
+1442246,fitness,Bacteriodetes
+1442246,fitness,Firmicutes
+1442246,fitness,Gemmatimonadetes
+1442246,fitness,Verrucomicrobia
+1442246,fitness,Angiosperms
+1442246,fitness,Gymnosperms
+1442306,fitness,Archaea
+1442306,fitness,Bacteria
+1442306,fitness,Proteobacteria
+1442306,fitness,Cyanobacteria
+1442306,fitness,Chromista
+1442306,fitness,Ascomycota
+1442306,fitness,Basidiomycota
+1442306,fitness,Cnidaria
+1542402,fitness,Angiosperms
+1542402,fitness,Arthropoda
+1542402,fitness,Aves
+1542451,fitness,Viruses
+1542451,fitness,Proteobacteria
+1542451,fitness,Tenericutes
+1542451,fitness,Angiosperms
+1542451,fitness,Arthropoda
+1542506,fitness,Archaea
+1542506,fitness,Bacteria
+1542506,fitness,Firmicutes
+1542506,fitness,Proteobacteria
+1542506,fitness,Bacteriodetes
+1542599,fitness,Angiosperms
+1542599,fitness,Arthropoda
+1542679,fitness,Ctenophora
+1542681,fitness,Oomycota
+1542681,fitness,Angiosperms
+1638943,fitness,Bryophyta
+1638997,fitness,Arthropoda
+1638999,fitness,Ascomycota
+1638999,fitness,Angiosperms
+1639014,fitness,Arthropoda
+1737898,fitness,Proteobacteria
+1737898,fitness,Chlorobionta
+1737898,fitness,Chromista
+1737898,fitness,Glomeromycota
+1737898,fitness,Mucoromycota
+1737898,fitness,Zygomycota
+1737898,fitness,Bryophyta
+1737898,fitness,Gymnosperms
+1737898,fitness,Angiosperms
+1738009,fitness,Proteobacteria
+1738009,fitness,Angiosperms
+1342873,coevolution,Angiosperms
+1342873,coevolution,Arthropoda
+1442280,coevolution,Archaea
+1442280,coevolution,Bacteria
+1442280,coevolution,Proteobacteria
+1442280,coevolution,Cyanobacteria
+1442306,coevolution,Archaea
+1442306,coevolution,Bacteria
+1442306,coevolution,Proteobacteria
+1442306,coevolution,Cyanobacteria
+1442306,coevolution,Chromista
+1442306,coevolution,Ascomycota
+1442306,coevolution,Basidiomycota
+1442306,coevolution,Cnidaria
+1442316,coevolution,Proteobacteria
+1442316,coevolution,Verrucomicrobia
+1442316,coevolution,Arthropoda
+1542402,coevolution,Angiosperms
+1542402,coevolution,Arthropoda
+1542402,coevolution,Aves
+1542681,coevolution,Oomycota
+1542681,coevolution,Angiosperms
+1638997,coevolution,Arthropoda
+1046113,community assembly processes,Gymnosperms
+1046113,community assembly processes,Angiosperms
+1046115,community assembly processes,Ascomycota
+1046115,community assembly processes,Basidiomycota
+1046115,community assembly processes,Zygomycota
+1046115,community assembly processes,Gymnosperms
+1046328,community assembly processes,Angiosperms
+1046355,community assembly processes,Angiosperms
+1046355,community assembly processes,Gymnosperms
+1135733,community assembly processes,Angiosperms
+1135733,community assembly processes,Arthropoda
+1241212,community assembly processes,Ascomycota
+1241212,community assembly processes,Basidiomycota
+1241253,community assembly processes,Archaea
+1241253,community assembly processes,Bacteria
+1241253,community assembly processes,Arthropoda
+1342754,community assembly processes,Angiosperms
+1342754,community assembly processes,Gymnosperms
+1342754,community assembly processes,Arthropoda
+1442103,community assembly processes,Angiosperms
+1442103,community assembly processes,Arthropoda
+1442214,community assembly processes,Archaea
+1442214,community assembly processes,Proteobacteria
+1442214,community assembly processes,Verrucomicrobia
+1442280,community assembly processes,Archaea
+1442280,community assembly processes,Bacteria
+1442280,community assembly processes,Proteobacteria
+1442280,community assembly processes,Cyanobacteria
+1542240,community assembly processes,Proteobacteria
+1542240,community assembly processes,Chloroflexi
+1542240,community assembly processes,Bacteriodetes
+1542451,community assembly processes,Viruses
+1542451,community assembly processes,Proteobacteria
+1542451,community assembly processes,Tenericutes
+1542451,community assembly processes,Angiosperms
+1542451,community assembly processes,Arthropoda
+1542609,community assembly processes,Cyanobacteria
+1542609,community assembly processes,Proteobacteria
+1542609,community assembly processes,Bryophyta
+1542681,community assembly processes,Oomycota
+1542681,community assembly processes,Angiosperms
+1638768,community assembly processes,Proteobacteria
+1638768,community assembly processes,Acidobacteria
+1638768,community assembly processes,Chloroflexi
+1638768,community assembly processes,Bacteriodetes
+1638768,community assembly processes,Actinobacteria
+1638768,community assembly processes,Ascomycota
+1638768,community assembly processes,Angiosperms
+1638768,community assembly processes,Arthropoda
+1638943,community assembly processes,Bryophyta
+1737758,community assembly processes,Bacteria
+1737758,community assembly processes,Ascomycota
+1737758,community assembly processes,Angiosperms
+1738041,community assembly processes,Bacteria
+1738041,community assembly processes,Fungi
+1738041,community assembly processes,Angiosperms
+1045977,landscape scale Qs,Ascomycota
+1045977,landscape scale Qs,Basidiomycota
+1045977,landscape scale Qs,Glomeromycota
+1045977,landscape scale Qs,Angiosperms
+1046065,landscape scale Qs,Ascomycota
+1046065,landscape scale Qs,Lichen
+1046065,landscape scale Qs,Bryophyta
+1046065,landscape scale Qs,Angiosperms
+1046065,landscape scale Qs,Gymnosperms
+1046113,landscape scale Qs,Gymnosperms
+1046113,landscape scale Qs,Angiosperms
+1046115,landscape scale Qs,Ascomycota
+1046115,landscape scale Qs,Basidiomycota
+1046115,landscape scale Qs,Zygomycota
+1046115,landscape scale Qs,Gymnosperms
+1046355,landscape scale Qs,Angiosperms
+1046355,landscape scale Qs,Gymnosperms
+1046408,landscape scale Qs,Arthropoda
+1046408,landscape scale Qs,Amphibia
+1046408,landscape scale Qs,Osteichthyes
+1136586,landscape scale Qs,Amphibia
+1136586,landscape scale Qs,Aves
+1136586,landscape scale Qs,Reptilia
+1136710,landscape scale Qs,Chromista
+1136710,landscape scale Qs,Arthropoda
+1240804,landscape scale Qs,Proteobacteria
+1240804,landscape scale Qs,Arthropoda
+1241041,landscape scale Qs,Aves
+1241046,landscape scale Qs,Archaea
+1241046,landscape scale Qs,Bacteria
+1241046,landscape scale Qs,Proteobacteria
+1241066,landscape scale Qs,Angiosperms
+1241066,landscape scale Qs,Arthropoda
+1241066,landscape scale Qs,Mammalia
+1241066,landscape scale Qs,Aves
+1241136,landscape scale Qs,Gymnosperms
+1241136,landscape scale Qs,Angiosperms
+1342712,landscape scale Qs,Arthropoda
+1342754,landscape scale Qs,Angiosperms
+1342754,landscape scale Qs,Gymnosperms
+1342754,landscape scale Qs,Arthropoda
+1342785,landscape scale Qs,Proteobacteria
+1342785,landscape scale Qs,Mollusca
+1342787,landscape scale Qs,Angiosperms
+1342872,landscape scale Qs,Bacteria
+1342872,landscape scale Qs,Proteobacteria
+1342872,landscape scale Qs,Cyanobacteria
+1342872,landscape scale Qs,Ascomycota
+1342872,landscape scale Qs,Basidiomycota
+1342872,landscape scale Qs,Glomeromycota
+1342872,landscape scale Qs,Mucoromycota
+1342872,landscape scale Qs,Zygomycota
+1342872,landscape scale Qs,Gymnosperms
+1342872,landscape scale Qs,Angiosperms
+1342873,landscape scale Qs,Angiosperms
+1342873,landscape scale Qs,Arthropoda
+1343578,landscape scale Qs,Bacteria
+1343578,landscape scale Qs,Proteobacteria
+1343578,landscape scale Qs,Chromista
+1343578,landscape scale Qs,Angiosperms
+1343578,landscape scale Qs,Arthropoda
+1343578,landscape scale Qs,Amphibia
+1343578,landscape scale Qs,Reptilia
+1343578,landscape scale Qs,Aves
+1442103,landscape scale Qs,Angiosperms
+1442103,landscape scale Qs,Arthropoda
+1442214,landscape scale Qs,Archaea
+1442214,landscape scale Qs,Proteobacteria
+1442214,landscape scale Qs,Verrucomicrobia
+1442231,landscape scale Qs,Firmicutes
+1442231,landscape scale Qs,Proteobacteria
+1442231,landscape scale Qs,Verrucomicrobia
+1442231,landscape scale Qs,Cyanobacteria
+1442231,landscape scale Qs,Actinobacteria
+1442231,landscape scale Qs,Lentisphaerae
+1442231,landscape scale Qs,Bacteriodetes
+1442231,landscape scale Qs,Chromista
+1442231,landscape scale Qs,Chlorobionta
+1442246,landscape scale Qs,Acidobacteria
+1442246,landscape scale Qs,Actinobacteria
+1442246,landscape scale Qs,Bacteriodetes
+1442246,landscape scale Qs,Firmicutes
+1442246,landscape scale Qs,Gemmatimonadetes
+1442246,landscape scale Qs,Verrucomicrobia
+1442246,landscape scale Qs,Angiosperms
+1442246,landscape scale Qs,Gymnosperms
+1442280,landscape scale Qs,Archaea
+1442280,landscape scale Qs,Bacteria
+1442280,landscape scale Qs,Proteobacteria
+1442280,landscape scale Qs,Cyanobacteria
+1442348,landscape scale Qs,Proteobacteria
+1442348,landscape scale Qs,Ascomycota
+1442348,landscape scale Qs,Gymnosperms
+1524534,landscape scale Qs,Reptilia
+1524639,landscape scale Qs,Lichen
+1542609,landscape scale Qs,Cyanobacteria
+1542609,landscape scale Qs,Proteobacteria
+1542609,landscape scale Qs,Bryophyta
+1638768,landscape scale Qs,Proteobacteria
+1638768,landscape scale Qs,Acidobacteria
+1638768,landscape scale Qs,Chloroflexi
+1638768,landscape scale Qs,Bacteriodetes
+1638768,landscape scale Qs,Actinobacteria
+1638768,landscape scale Qs,Ascomycota
+1638768,landscape scale Qs,Angiosperms
+1638768,landscape scale Qs,Arthropoda
+1638943,landscape scale Qs,Bryophyta
+1638958,landscape scale Qs,Cyanobacteria
+1638958,landscape scale Qs,Chromista
+1639014,landscape scale Qs,Arthropoda
+1737889,landscape scale Qs,Angiosperms
+1737889,landscape scale Qs,Aves
+1737889,landscape scale Qs,Arthropoda
+1737899,landscape scale Qs,Bryophyta
+1738009,landscape scale Qs,Proteobacteria
+1738009,landscape scale Qs,Angiosperms
+1738041,landscape scale Qs,Bacteria
+1738041,landscape scale Qs,Fungi
+1738041,landscape scale Qs,Angiosperms
+1135733,epistasis,Angiosperms
+1135733,epistasis,Arthropoda
+1136707,epistasis,Angiosperms
+1342712,epistasis,Arthropoda
+1442142,epistasis,Mammalia
+1542402,epistasis,Angiosperms
+1542402,epistasis,Arthropoda
+1542402,epistasis,Aves
+1638872,epistasis,Reptilia
+1737869,epistasis,Basidiomycota
+1737869,epistasis,Arthropoda
